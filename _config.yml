@@ -2,7 +2,7 @@
 title: Jeremy's Blog
 SEOTitle: 郭哲敏的博客 | Jeremy's Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: jeremyguoim@163.com
 description: "Every failure is leading towards success."
 keyword: "郭哲敏的博客, guozhemin, 郭哲敏, 互联网产品 , 教育, 电商"
 url: "http://jeremyguoim.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/jeremyguoim/jeremyguoim.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Whatever it takes!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
